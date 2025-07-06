@@ -33,9 +33,8 @@ The dataset records sales transactions over a period and includes both customer 
 8. Who are the top customers in terms of revenue generated?
 9. How many active vs inactive customers exist in the database?
 
-#       Dashboard
-
-     <a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/DB%20dirty%20fashion%20retail.png">Dashboard</a>
+##       Dashboard
+      <a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/DB%20dirty%20fashion%20retail.png">Interractive Dashboard</a>
 
 ##  📈 Findings
 -	Total Revenue: The overall revenue was calculated as the sum of Product Price * Quantity across all transactions.
