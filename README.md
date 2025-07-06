@@ -1,10 +1,11 @@
-# Fashion-Retail-Sales-Analysis
+# Fashion-Retail-Sales-Analysis Dashboard
 
 ## ✅ Project Overview
 This project aims to analyze transactional sales data to derive meaningful insights and performance metrics (KPIs) that can guide decision-making in marketing, product strategy, and sales operations. I Used both Excel and Power BI, i transformed raw data into interactive visual dashboards and reports to uncover trends and business insights.
 
 ## 📂 Data Source
 The dataset records sales transactions over a period and includes both customer and sales rep dataset, allowing for a wide range of KPIs to be analyzed.
+
 
 ## 🛠️ Tools Used
 -  Microsoft Excel : I Used for cleaning the dataset (e.g., handling missing data, removing duplicates, formatting dates, correcting column formats).
