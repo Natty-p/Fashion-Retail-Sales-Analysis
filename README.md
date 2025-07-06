@@ -10,9 +10,9 @@ The dataset records sales transactions over a period and includes both customer 
 
 <a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/Sales_Rep_Info%20(1).csv">Sales Rep Dataset</a>
 
-<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/merged%20cleaned%20up%20dirty%20fashion%20dataset.xlsx">Cleaned Formated & Ready to Use t</a>
+<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/merged%20cleaned%20up%20dirty%20fashion%20dataset.xlsx">Cleaned Formated & Ready to Use</a>
 
-<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/Dirty%20Fashion%20Store%20Detail%20gethuh%20%201.pbit">Data Visualization</a>
+<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/Dirty%20Fashion%20Store%20Detail%20gethuh%20%201.pbit">Data Visualization Process</a>
 
 
 ## 🛠️ Tools Used
@@ -33,6 +33,9 @@ The dataset records sales transactions over a period and includes both customer 
 8. Who are the top customers in terms of revenue generated?
 9. How many active vs inactive customers exist in the database?
 
+#       Dashboard
+
+     <a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/DB%20dirty%20fashion%20retail.png">Dashboard</a>
 
 ##  📈 Findings
 -	Total Revenue: The overall revenue was calculated as the sum of Product Price * Quantity across all transactions.
