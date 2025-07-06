@@ -5,6 +5,7 @@ This project aims to analyze transactional sales data to derive meaningful insig
 
 ## 📂 Data Source
 The dataset records sales transactions over a period and includes both customer and sales rep dataset, allowing for a wide range of KPIs to be analyzed.
+<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/Dirty_Fashion_Retail_Dataset%20(1).csv">Raw dirty dataset</a>
 
 
 ## 🛠️ Tools Used
