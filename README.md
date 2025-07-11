@@ -10,16 +10,15 @@ The dataset records sales transactions over a period and includes both customer 
 
 <a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/Sales_Rep_Info%20(1).csv">Sales Rep Dataset</a>
 
-<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/merged%20cleaned%20up%20dirty%20fashion%20dataset.xlsx">Cleaned Formated & Ready to Use With Excel</a>
-
-<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/Dirty%20Fashion%20Store%20Detail%20gethuh%20%201.pbit">Data Visualization Process Using Power BI</a>
-
-
 ## 🛠️ Tools Used
 -  Microsoft Excel : I Used for cleaning the dataset (e.g., handling missing data, removing duplicates, formatting dates, correcting column formats).
    Performed basic transformations like calculating revenue using formulas and sorting/filtering key columns.
 -  Microsoft Power BI : I Used for building dashboards and visualizations.
    KPIs such as Total Revenue, Revenue by Product Category, Revenue by Sales Rep, and Monthly Sales Trends were visualized using bar charts, line graphs, pie charts, and           slicers for filtering.
+
+   <a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/merged%20cleaned%20up%20dirty%20fashion%20dataset.xlsx">Cleaned Formated & Ready to Use With Excel</a>
+
+<a href="https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/main/Dirty%20Fashion%20Store%20Detail%20gethuh%20%201.pbit">Data Visualization Process Using Power BI</a>
 
    ##  ❓ KPI Questions
    The project sought to answer the following key performance indicator (KPI) questions:
