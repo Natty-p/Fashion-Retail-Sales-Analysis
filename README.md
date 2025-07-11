@@ -34,7 +34,8 @@ The dataset records sales transactions over a period and includes both customer 
 9. How many active vs inactive customers exist in the database?
 
 ##       Dashboard
-    <img width="1405" height="825" alt="DB dirty fashion retail" src="https://github.com/user-attachments/assets/14f42326-343f-4711-895a-524e12733886" />
+   <img width="1405" height="825" alt="DB dirty fashion retail" src="https://github.com/user-attachments/assets/c1996255-d542-465c-b736-4f264b508868" />
+
 
 
 ##  📈 Findings
