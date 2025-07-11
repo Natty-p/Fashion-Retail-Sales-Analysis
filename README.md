@@ -34,7 +34,8 @@ The dataset records sales transactions over a period and includes both customer 
 9. How many active vs inactive customers exist in the database?
 
 ##       Dashboard
-     Dashboard Interraction <a href=" https://github.com/Natty-p/Fashion-Retail-Sales-Analysis/blob/3a3be4d7ef2f08e195948f53225c320a525e15c3/DB%20dirty%20fashion%20retail.png ">View Dashboard</a>
+    <img width="1405" height="825" alt="DB dirty fashion retail" src="https://github.com/user-attachments/assets/14f42326-343f-4711-895a-524e12733886" />
+
 
 ##  📈 Findings
 -	Total Revenue: The overall revenue was calculated as the sum of Product Price * Quantity across all transactions.
